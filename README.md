@@ -1,2 +1,4 @@
 # Portfolio
 Baseball Operations/Analyst/Scouting
+PROFESSIONAL SUMMARY
+Passion for Baseball and Love of the Game. Experienced in R, Python, SQL and Microsoft Excel for Data Analytics. Exceptional understanding of Baseball Operations, Player Evaluations and League Rules. Highly skilled in Roster Management and Player Development. Effective Player Analysis using Data, Charts and Graphs. Demonstrated knowledge of baseball specific data, advanced statistical methods, and Sabermetrics. Sabr Analytics Certification. Critical and Creative thinking skills. Descriptive and Inferential Statistical knowledge. Highly skilled in the five tools of baseball. Understanding of the MLB 20-80 Grading Scale. Strong grasp of modern performance metrics. Scouting Certification. Commitment to integrity, confidentiality, and ethical communications. 
